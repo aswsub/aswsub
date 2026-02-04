@@ -12,6 +12,6 @@ Computers are interesting. I work on firmware, real-time operating systems, as w
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=absozero&theme=radical)](https://github.com/absozero)
 
 
-[![Abso's github stats](https://github-readme-stats.vercel.app/api?username=absozero&theme=blueberry&show_icons=true&hide_border=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)](https://github.com/absozero/absozero)
-[![GitHub Streak](https://streak-stats.demolab.com?user=absozero&theme=catppuccin-frappe&hide_border=true&border_radius=8.5)](https://absozero.github.io)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=absozero&bg_color=303446&color=c6d0f5&line=ef9f76&point=e78284&area=true&hide_border=true)](https://absozero.github.io)
+[![Aswath's github stats](https://github-readme-stats.vercel.app/api?username=absozero&theme=blueberry&show_icons=true&hide_border=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)](https://github.com/absozero/aswsub)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aswsub&theme=catppuccin-frappe&hide_border=true&border_radius=8.5)](https://absozero.github.io)
+[![Aswath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aswsub&bg_color=303446&color=c6d0f5&line=ef9f76&point=e78284&area=true&hide_border=true)](https://absozero.github.io)

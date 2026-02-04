@@ -1,8 +1,6 @@
 ﻿
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=27&duration=5024&pause=1000&color=F2D5CF&background=232634FB&center=true&vCenter=true&random=false&width=475&height=53&lines=My+name+is+Aswath+Subramanian;I+am+a+student;I+architect+solutions)](https://git.io/typing-svg)
 
-![image](./banner.jpg)
-
 # I'm Aswath, hello! 👋
 
 I'm currently a student at Cal Poly, studying Computer Engineering.

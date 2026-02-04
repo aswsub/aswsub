@@ -7,7 +7,7 @@ I'm currently a student at Cal Poly, studying Computer Engineering.
 
 Computers are interesting. I work on firmware, real-time operating systems, as well as with computer and software architecture.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=absozero&theme=react&repo=absozero.github.io)](https://absozero.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=absozero&theme=react&repo=absozero.github.io)](https://aswsub.github.io)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=absozero&theme=radical)](https://github.com/absozero)
 
